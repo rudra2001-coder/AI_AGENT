@@ -1,0 +1,3 @@
+pip install phidata 
+  pipinstalldo env
+    pip install groq
